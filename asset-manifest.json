@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FoodHouse/static/css/main.594d0110.chunk.css",
+    "main.js": "/FoodHouse/static/js/main.44cd1624.chunk.js",
+    "main.js.map": "/FoodHouse/static/js/main.44cd1624.chunk.js.map",
+    "runtime-main.js": "/FoodHouse/static/js/runtime-main.3ce210f2.js",
+    "runtime-main.js.map": "/FoodHouse/static/js/runtime-main.3ce210f2.js.map",
+    "static/js/2.9e21039d.chunk.js": "/FoodHouse/static/js/2.9e21039d.chunk.js",
+    "static/js/2.9e21039d.chunk.js.map": "/FoodHouse/static/js/2.9e21039d.chunk.js.map",
+    "index.html": "/FoodHouse/index.html",
+    "static/css/main.594d0110.chunk.css.map": "/FoodHouse/static/css/main.594d0110.chunk.css.map",
+    "static/js/2.9e21039d.chunk.js.LICENSE.txt": "/FoodHouse/static/js/2.9e21039d.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/FoodHouse/static/media/pexels-katerina-holmes-5908032.d9123c85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ce210f2.js",
+    "static/js/2.9e21039d.chunk.js",
+    "static/css/main.594d0110.chunk.css",
+    "static/js/main.44cd1624.chunk.js"
+  ]
+}
